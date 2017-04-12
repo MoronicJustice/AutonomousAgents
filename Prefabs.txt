@@ -1,0 +1,3 @@
+In Tilibng Engine, they have some TileSprite slots to fill. they can drag and drop their own defined TileSprites into these slots, but they need to
+make define some prefabs for these TileSprites themselves. For example, I have prefabs for each location, they consist of an empty GameObject with
+the TileSprite script as a component. Within that prefab, they have to define the attributes for the specific TileSprite.
